@@ -1,0 +1,15 @@
+Server started
+User logged in
+
+ERROR Database connection failed
+User requested data
+User logged out
+
+INFO Scheduled job started
+ERROR Timeout while calling external APL
+User logged in again
+
+DEBUG Cache cleared
+INFO Health check passed
+ERROR Disk space low 
+Backup completed
