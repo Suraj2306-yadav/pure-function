@@ -14,7 +14,7 @@ print(count_vowels("Hello World"))
 def name (firstname:str,lastname:str )-> str:
    firstname.strip().capitalize()
    lastname.strip().capitalize()
-   return firstname +""+ lastname
+   return firstname +" "+ lastname
 print(name("vidya","jha"))
 
 # #vaild Email checker 
